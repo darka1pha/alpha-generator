@@ -1,6 +1,6 @@
 {
   "name": "alpha-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tool for generating react components & redux configuration. ",
   "scripts": {
     "pregc": "node generators/component/component_generator.js",
