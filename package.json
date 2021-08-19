@@ -1,0 +1,21 @@
+{
+  "name": "alpha-generator",
+  "version": "1.0.0",
+  "description": "a tool for generating react components & redux configuration. ",
+  "scripts": {
+    "gc": "node generators/component/component_generator.js",
+    "grfc": "node generators/redux/base/redux_component_generator.js",
+    "grc": "node generators/redux/config/redux_config_generator.js"
+  },
+  "keywords": [
+    "react",
+    "react-generator",
+    "redux-generator",
+    "component-generator"
+  ],
+  "author": "Abolfazl Omrani - ( abolfazl.omrani1999@gmail.com )",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
