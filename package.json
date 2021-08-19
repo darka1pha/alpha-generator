@@ -14,7 +14,7 @@
     "component-generator"
   ],
   "author": "Abolfazl Omrani - ( abolfazl.omrani1999@gmail.com )",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.1.2"
   }
