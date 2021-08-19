@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "a tool for generating react components & redux configuration. ",
   "scripts": {
+    "pregc": "node generators/component/component_generator.js",
     "gc": "node generators/component/component_generator.js",
+    "postgc": "node generators/component/component_generator.js",
+    "pregrfc": "node generators/redux/base/redux_component_generator.js",
     "grfc": "node generators/redux/base/redux_component_generator.js",
-    "grc": "node generators/redux/config/redux_config_generator.js"
+    "postgrfc": "node generators/redux/base/redux_component_generator.js",
+    "pregrc": "node generators/redux/config/redux_config_generator.js",
+    "grc": "node generators/redux/config/redux_config_generator.js",
+    "postgrc": "node generators/redux/config/redux_config_generator.js"
   },
   "keywords": [
     "react",
