@@ -13,9 +13,16 @@
     "redux-generator",
     "component-generator"
   ],
-  "author": "Abolfazl Omrani - ( abolfazl.omrani1999@gmail.com )",
+  "author": "Abolfazl Omrani",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^8.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/darka1pha/alpha-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darka1pha/alpha-generator/issues"
   }
 }
